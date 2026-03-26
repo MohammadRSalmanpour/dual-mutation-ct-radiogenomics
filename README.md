@@ -1,5 +1,5 @@
 # dual-mutation-ct-radiogenomics
-# Predicting KRAS and EGFR Mutations in NSCLC using CT Radiomics: A Comparative Study of Feature Representations
+# Paper Title: Robust Multicenter CT Radiogenomics for Dual EGFR and KRAS Prediction in Lung Cancer with Stability-Aware Modeling and SHAP Interpretation
 
 ## Overview
 This project is implementation of a comprehensive machine learning pipeline for the non-invasive identification of EGFR and KRAS mutations in Non-Small Cell Lung Cancer (NSCLC) using CT-based radiogenomics. It benchmarks handcrafted radiomic features (HRF) against deep representations (DRF) and feature fusion strategies for three-class mutation prediction (wild-type, KRAS-mutant, EGFR-mutant). The study emphasizes generalization across multiple centers using external testing and includes model interpretability via SHAP values.
